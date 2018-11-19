@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[mysql]]></title>
+    <url>%2F2018%2F11%2F16%2Fmysql%2F</url>
+    <content type="text"><![CDATA[MySQL Server四种日志类型： ERROR Log（错误日志） General Query Log（一般查询日志） Binary Log（数据改动日志） Slow Query Log（慢查询SQL语句） 设置log-bin启动mysql服务失败解决方案：加上server-id=1]]></content>
+      <categories>
+        <category>mysql</category>
+      </categories>
+      <tags>
+        <tag>mysql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[sharding-jdbc]]></title>
+    <url>%2F2018%2F11%2F16%2Fmy-blog%2F</url>
+    <content type="text"><![CDATA[springboot2.X中使用的spring5，而spring5中已经弃用RelaxedPropertyResolver相关类，而spring-boot-start-sharding相关的包是依赖于RelaxedPropertyResolver的，所以会导致无法启动，只能用sharding-jdbc-core这个包，自己在yml文件里写相关的配置]]></content>
+      <categories>
+        <category>mysql</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>springboot</tag>
+        <tag>mysql</tag>
+      </tags>
+  </entry>
+</search>
